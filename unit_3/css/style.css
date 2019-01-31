@@ -4,6 +4,9 @@ h1 {
 	font-size: 24 px;
 	font-weight: bold;
 	text-align: center;
+	background-image: url("images/adventure.jpg")
+	background-size: cover;
+	background-position: center;
 }
 
 h2 {
