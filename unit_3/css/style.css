@@ -26,11 +26,12 @@ body {
 	font-family: Avenir, sans-serif;
 	font-size: 14 px;
 	text-align:center;
+	background-color: rgb(127,107,103);
 }
 
 ul {
 	color: rgb(232,144,107);
-	text-align: left;
+	text-align: center;
 	font-family: Helvetica, sans-serif;
 	font-size: 18 px;
 }
