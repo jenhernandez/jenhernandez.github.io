@@ -4,9 +4,10 @@ h1 {
 	font-size: 24 px;
 	font-weight: bold;
 	text-align: center;
-	background: url(https://images.pexels.com/photos/681794/pexels-photo-681794.jpeg?cs=srgb&dl=adventure-blonde-hair-cliffside-681794.jpg&fm=jpg);
-	background-size: cover;
-	background-position: center;
+}
+
+img {
+	position: center
 }
 
 h2 {
