@@ -1,0 +1,39 @@
+h1 {
+	color: rgb(232,107,107);
+	font-family: Helvetica, sans-serif;
+	font-size: 24 px;
+	font-weight: bold;
+	text-align: center;
+}
+
+h2 {
+	color: rgb(255,149,130);
+	font-family: Avenir, sans-serif;
+	font-size: 20 px;
+	text-align:center;
+
+}
+
+
+
+body {
+	color: rgb(255,149,130);
+	font-family: Avenir, sans-serif;
+	font-size: 14 px;
+	text-align:center;
+}
+
+ul {
+	color: rgb(232,144,107);
+	text-align: left;
+	font-family: Helvetica, sans-serif;
+	font-size: 18 px;
+}
+
+#slogan {
+	color: rgb(232,107,107);
+	font-style: italic;
+	font-family: Helvetica, sans-serif;
+	font-size: 18 px;
+	text-align: center;
+}
