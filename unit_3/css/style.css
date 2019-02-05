@@ -1,7 +1,7 @@
 h1 {
 	color: rgb(232,107,107);
-	font-family: Helvetica, sans-serif;
-	font-size: 36px;
+	font-family: Futura, sans-serif;
+	font-size: 40px;
 	font-weight: bold;
 	text-align: center;
 }
@@ -13,8 +13,8 @@ img {
 
 h2 {
 	color: rgb(255,149,130);
-	font-family: Avenir, sans-serif;
-	font-size: 24px;
+	font-family: Georgia, sans-serif;
+	font-size: 34px;
 	text-align:center;
 
 }
@@ -23,8 +23,8 @@ h2 {
 
 body {
 	color: rgb(255,149,130);
-	font-family: Avenir, sans-serif;
-	font-size: 18px;
+	font-family: Georgia, sans-serif;
+	font-size: 20px;
 	text-align:center;
 	background-image: url(".../images/elephant.jpg");
 	background-color: white;
@@ -33,14 +33,14 @@ body {
 ul {
 	color: rgb(232,144,107);
 	text-align: left;
-	font-family: Helvetica, sans-serif;
-	font-size: 22px;
+	font-family: Futura, sans-serif;
+	font-size: 24px;
 }
 
 #slogan {
 	color: rgb(232,107,107);
 	font-style: italic;
-	font-family: Helvetica, sans-serif;
+	font-family: Georgia, sans-serif;
 	font-size: 24px;
 	text-align: center;
 }
