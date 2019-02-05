@@ -14,7 +14,7 @@ img {
 h2 {
 	color: rgb(255,149,130);
 	font-family: Georgia, sans-serif;
-	font-size: 34px;
+	font-size: 40px;
 	text-align:center;
 
 }
@@ -24,9 +24,9 @@ h2 {
 body {
 	color: rgb(255,149,130);
 	font-family: Georgia, sans-serif;
-	font-size: 20px;
+	font-size: 26px;
 	text-align:center;
-	background-image: url(".../images/elephant.jpg");
+	background-image: url("../images/elephant.jpg");
 	background-color: white;
 }
 
@@ -34,13 +34,13 @@ ul {
 	color: rgb(232,144,107);
 	text-align: left;
 	font-family: Futura, sans-serif;
-	font-size: 24px;
+	font-size: 26px;
 }
 
 #slogan {
 	color: rgb(232,107,107);
 	font-style: italic;
 	font-family: Georgia, sans-serif;
-	font-size: 24px;
+	font-size: 40px;
 	text-align: center;
 }
