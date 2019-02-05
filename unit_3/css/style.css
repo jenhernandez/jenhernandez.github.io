@@ -26,7 +26,9 @@ body {
 	font-family: Avenir, sans-serif;
 	font-size: 14 px;
 	text-align:center;
-	background-color: rgb(127,107,103);
+	background: img src= url(images/elephant.jpg);
+	background-size: cover;
+	background-color: white;
 }
 
 ul {
