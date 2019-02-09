@@ -1,6 +1,7 @@
 
 @import url('https://fonts.googleapis.com/css?family=Anton');
 @import url('https://fonts.googleapis.com/css?family=Cantata+One');
+@import url('https://fonts.googleapis.com/css?family=Roboto:300');
 
 h1 {
 	color: rgb(232,107,107);
@@ -18,7 +19,7 @@ img {
 
 h2 {
 	color: rgb(255,149,130);
-	font-family: Georgia, sans-serif;
+	font-family: 'Cantata One', serif;
 	font-size: 40px;
 	text-align:center;
 
@@ -28,7 +29,7 @@ h2 {
 
 body {
 	color: rgb(255,149,130);
-	font-family: Georgia, sans-serif;
+	font-family: 'Cantata One', serif;
 	font-size: 26px;
 	text-align:center;
 	background-color: white;
@@ -36,8 +37,8 @@ body {
 
 ul {
 	color: rgb(232,144,107);
-	text-align: left;
-	font-family: Futura, sans-serif;
+	text-align: top;
+	font-family: 'Roboto', sans-serif;
 	font-size: 26px;
 }
 
