@@ -4,6 +4,8 @@ h1 {
 	font-size: 40px;
 	font-weight: bold;
 	text-align: center;
+	background-image: url("../images/elephant.jpg");
+	background-size: cover;
 }
 
 img {
@@ -26,8 +28,6 @@ body {
 	font-family: Georgia, sans-serif;
 	font-size: 26px;
 	text-align:center;
-	background-image: url("../images/elephant.jpg");
-	background-size: cover;
 	background-color: white;
 }
 
