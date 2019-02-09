@@ -38,8 +38,8 @@ body {
 }
 
 ul {
-	color: rgb(232,144,107);
-	text-align: top;
+	color: black;
+	text-align: left;
 	font-family: 'Roboto', sans-serif;
 	font-size: 26px;
 	font-weight: medium;
