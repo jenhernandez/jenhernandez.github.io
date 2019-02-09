@@ -1,11 +1,14 @@
+
+@import url('https://fonts.googleapis.com/css?family=Anton');
+@import url('https://fonts.googleapis.com/css?family=Cantata+One');
+
 h1 {
 	color: rgb(232,107,107);
-	font-family: Futura, sans-serif;
+	font-family: 'Anton', sans-serif;
 	font-size: 40px;
-	font-weight: bold;
-	text-align: center;
-	background-image: url("../images/elephant.jpg");
-	background-size: cover;
+	text-align: left;
+	
+	
 }
 
 img {
@@ -40,8 +43,7 @@ ul {
 
 #slogan {
 	color: rgb(232,107,107);
-	font-style: italic;
-	font-family: Georgia, sans-serif;
+	font-family: 'Cantata One', serif;
 	font-size: 40px;
-	text-align: center;
+	text-align: left;
 }
