@@ -62,20 +62,19 @@ main {
 }
 
 #intro {
-	color: grey;
+	color: black;
 	font-family: Roboto, sans-serif;
-	font-size: 30px;
-	font-weight: bold;
+	font-size: 40px;
+	font-weight: normal;
 }
 
 h2 {
 	color: black;
     font-family: 'Anton', sans-serif;	
-    font-size: 60px;
+    font-size: 100px;
     font-weight: bolder;
 	text-transform: uppercase;
 	text-align:center;
-
 }
 
 span {
