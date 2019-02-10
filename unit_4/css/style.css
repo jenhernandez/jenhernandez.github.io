@@ -1,0 +1,61 @@
+
+@import url('https://fonts.googleapis.com/css?family=Anton');
+@import url('https://fonts.googleapis.com/css?family=Roboto:300');
+
+h1 {
+	color: black;
+	font-family: 'Anton', sans-serif;
+	font-size: 40px;
+	text-align: left;
+	background-image: url(../images/adventure.jpg);
+	background-position: center
+	
+	
+}
+
+ul {
+	padding: 10px;
+    background: black;
+	color: white;
+	font-family: 'Roboto', sans-serif;
+	font-size: 26px;
+	font-weight: medium;
+}
+
+li {
+    display: inline;
+}
+
+img {
+	height: auto;
+	width: auto; 
+}
+
+#slogan {
+	color: black;
+	font-family: 'Anton', sans-serif;
+	font-size: 40px;
+	text-align: left;
+}
+
+h2 {
+	color: black;
+	font-family: 'Anton', sans-serif;
+	font-size: 40px;
+	text-align:center;
+
+}
+
+
+
+body {
+	color: black;
+	font-family: 'Roboto', sans-serif;
+	font-size: 26px;
+	font-weight: lighter;
+	text-align:center;
+	background-color: white;
+}
+
+
+
