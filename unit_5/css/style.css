@@ -48,10 +48,9 @@ img {
 }
 
 #dare {
-	float: right;
 	height: 100%;
+	position: relative;
 	background-color:#FF957E;
-	float: right;
 }
 
 #slogan {
