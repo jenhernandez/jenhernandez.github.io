@@ -29,12 +29,14 @@ li {
 img {
 	height: auto;
 	width: auto; 
+	display: inline;
 }
 
 #slogan {
 	color: black;
 	font-family: 'Anton', sans-serif;
-	font-size: 60px;
+	font-size: 80px;
+	font-weight: bolder;
 	text-align: center;
 }
 
@@ -46,14 +48,15 @@ img {
 }
 h2 {
 	color: black;
-	font-family: 'Abril Fatface', cursive;
-	font-size: 60px;
+    font-family: 'Roboto', sans-serif;	
+    font-size: 60px;
+    font-weight: bolder;
 	text-transform: uppercase;
 	text-align:center;
 
 }
 
-.cities {
+span {
 	color: black;
 	font-family: 'Roboto', sans-serif;
 	font-size: 40px;
@@ -73,8 +76,9 @@ body {
 
 h3 {
 	color: black;
-	font-family: 'Abril Fatface', cursive;
+    font-family: 'Roboto', sans-serif;
 	font-size: 60px;
+	font-weight: bolder;
 	text-align:center;
 
 }
