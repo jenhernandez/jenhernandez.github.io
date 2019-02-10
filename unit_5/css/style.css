@@ -14,20 +14,12 @@ h1 {
 	font-family: 'Abril Fatface', cursive;
 	font-size: 80px;
 	text-align: left;	
-	background-image: url('../images/adventure.jpg');
-	background-size: cover;	
 }
 
 nav {
 	background-color: #E8C66A;
 	border: 1px black solid;
 	padding: 20 px;
-}
-
-img {
-	height: auto;
-	width: auto; 
-	display: inline;
 }
 
 ul {
@@ -49,10 +41,10 @@ li {
 	padding: 1em;
 }
 
-main {
-	background-color:#FFC675;
-	border: 1px black solid;
-	padding: 20 px;
+img {
+	height: auto;
+	width: auto; 
+	display: inline;
 }
 
 #slogan {
@@ -61,7 +53,17 @@ main {
 	font-size: 80px;
 	font-weight: bolder;
 	text-align: center;
+	background-image: url('../images/adventure.jpg');
+	background-size: cover;	
 }
+
+main {
+	background-color:#FFC675;
+	border: 1px black solid;
+	padding: 20 px;
+}
+
+
 
 #intro {
 	color: black;
