@@ -47,16 +47,17 @@ img {
 	display: inline;
 }
 
+#dare {
+	float: right;
+	height: 100%;
+}
+
 #slogan {
 	color: black;
 	font-family: 'Anton', sans-serif;
 	font-size: 80px;
 	font-weight: bolder;
 	text-align: center;
-	background-image: url('../images/adventure.jpg');
-	background-size: cover;	
-	background-position: center;
-	height: 100%;
 }
 
 main {
