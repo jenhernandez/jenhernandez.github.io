@@ -31,11 +31,10 @@ nav {
 ul {
 	display: inline;
 	padding: 10px;
-    background: black;
-	color: white;
-	font-family: 'Roboto', sans-serif;
+	color: black;
+	font-family: 'Anton', sans-serif;
 	font-size: 26px;
-	font-weight: medium;
+	font-weight: lighter;
 	text-transform: uppercase
 }
 
