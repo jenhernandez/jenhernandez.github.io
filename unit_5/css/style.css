@@ -14,7 +14,7 @@ h1 {
 	font-family: 'Abril Fatface', cursive;
 	font-size: 80px;
 	text-align: left;	
-	background-image: ".../images/adventure.jpg";	
+	background-image: url('../images/adventure.jpg');	
 }
 
 nav {
