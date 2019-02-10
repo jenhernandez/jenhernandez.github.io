@@ -17,11 +17,12 @@ ul {
 	font-family: 'Roboto', sans-serif;
 	font-size: 26px;
 	font-weight: medium;
+	text-transform: uppercase
 }
 
 li {
     display: inline;
-    padding: 0px 10px 0px 10px 0px 10px 0px 10px 0px 10px;
+    padding: 0px 20px 0px 20px 0px 20px 0px 20px 0px 20px;
 }
 
 img {
@@ -32,23 +33,31 @@ img {
 #slogan {
 	color: black;
 	font-family: 'Anton', sans-serif;
-	font-size: 40px;
+	font-size: 60px;
 	text-align: left;
 }
 
+#intro {
+	color: grey;
+	font-family: Roboto, sans-serif;
+	font-size: 30px;
+	font-weight: bold;
+}
 h2 {
 	color: black;
 	font-family: 'Abril Fatface', cursive;
 	font-size: 60px;
+	text-transform: uppercase;
 	text-align:left;
 
 }
 
 .cities {
 	color: black;
-	font-family: 'Anton', sans-serif
+	font-family: 'Roboto', sans-serif;
 	font-size: 40px;
-	text-align: center
+	font-weight: bold;
+	text-align: center;
 }
 
 
@@ -61,5 +70,12 @@ body {
 	background-color: white;
 }
 
+h3 {
+	color: black;
+	font-family: 'Abril Fatface', cursive;
+	font-size: 60px;
+	text-align:left;
+
+}
 
 
