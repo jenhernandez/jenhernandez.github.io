@@ -34,7 +34,7 @@ img {
 	color: black;
 	font-family: 'Anton', sans-serif;
 	font-size: 60px;
-	text-align: left;
+	text-align: center;
 }
 
 #intro {
@@ -48,7 +48,7 @@ h2 {
 	font-family: 'Abril Fatface', cursive;
 	font-size: 60px;
 	text-transform: uppercase;
-	text-align:left;
+	text-align:center;
 
 }
 
@@ -74,7 +74,7 @@ h3 {
 	color: black;
 	font-family: 'Abril Fatface', cursive;
 	font-size: 60px;
-	text-align:left;
+	text-align:center;
 
 }
 
