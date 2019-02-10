@@ -3,11 +3,29 @@
 @import url('https://fonts.googleapis.com/css?family=Roboto:300');
 @import url('https://fonts.googleapis.com/css?family=Abril+Fatface');
 
+header{
+	background-color: #FFED74;
+	border: 1px black solid;
+	padding: 20px;
+}
+
 h1 {
 	color: black;
 	font-family: 'Abril Fatface', cursive;
 	font-size: 80px;
 	text-align: left;		
+}
+
+img {
+	height: auto;
+	width: auto; 
+	display: inline;
+}
+
+nav {
+	background-color: #E8C66A;
+	border: 1px black solid;
+	padding: 20 px;
 }
 
 ul {
@@ -26,10 +44,10 @@ li {
     list-style-type: none;
 }
 
-img {
-	height: auto;
-	width: auto; 
-	display: inline;
+main {
+	background-color:#FFC675;
+	border: 1px black solid;
+	padding: 20 px;
 }
 
 #slogan {
@@ -46,10 +64,11 @@ img {
 	font-size: 30px;
 	font-weight: bold;
 }
+
 h2 {
 	color: black;
     font-family: 'Anton', sans-serif;	
-    font-size: 60kkpx;
+    font-size: 60px;
     font-weight: bolder;
 	text-transform: uppercase;
 	text-align:center;
@@ -64,6 +83,11 @@ span {
 	text-align: center;
 }
 
+article{
+	background-color:#E89C6C;
+	border: 1px black solid;
+	padding: 20 px;
+}
 
 body {
 	color: black;
@@ -83,4 +107,15 @@ h3 {
 
 }
 
+footer {
+	background-color:#FF957E;
+	border: 1px black solid;
+	padding: 20 px;
+}
+
+.wrapper {
+	background-color: #FFE2B8;
+	border: 1px black solid;
+	padding: 20px;
+}
 
