@@ -38,8 +38,7 @@ li {
 }
 
 .menu {
-	padding: 3em;
-	border: 1px black  solid;
+	padding: 1em;
 }
 
 img {
@@ -60,7 +59,7 @@ img {
 	font-family: 'Anton', sans-serif;
 	font-size: 80px;
 	font-weight: bolder;
-	text-align: center;
+	text-align: left;
 	background-color: #FFED74;
 	float: left;
 }
