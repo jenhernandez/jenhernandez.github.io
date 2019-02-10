@@ -26,8 +26,8 @@ ul {
 	display: inline;
 	padding: 10px;
 	color: black;
-	font-family: 'Anton', sans-serif;
-	font-size: 26px;
+	font-family: 'Roboto', sans-serif;
+	font-size: 40px;
 	font-weight: lighter;
 	text-transform: uppercase
 }
@@ -39,6 +39,7 @@ li {
 
 .menu {
 	padding: 3em;
+	border: 1px black  solid;
 }
 
 img {
@@ -136,6 +137,5 @@ footer {
 	background-color: #FFE2B8;
 	border: 1px black solid;
 	padding: 20px;
-	margin: auto;
 }
 
