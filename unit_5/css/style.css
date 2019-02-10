@@ -16,16 +16,16 @@ h1 {
 	text-align: left;		
 }
 
-img {
-	height: auto;
-	width: auto; 
-	display: inline;
-}
-
 nav {
 	background-color: #E8C66A;
 	border: 1px black solid;
 	padding: 20 px;
+}
+
+img {
+	height: auto;
+	width: auto; 
+	display: inline;
 }
 
 ul {
@@ -41,6 +41,10 @@ ul {
 li {
     display: inline;
     list-style-type: none;
+}
+
+.menu {
+	padding: 1em;
 }
 
 main {
