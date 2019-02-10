@@ -58,6 +58,7 @@ img {
 	font-size: 80px;
 	font-weight: bolder;
 	text-align: center;
+	background-color: #FFED74;
 	float: left;
 }
 
@@ -74,6 +75,8 @@ main {
 	font-family: Roboto, sans-serif;
 	font-size: 40px;
 	font-weight: normal;
+	background-color: #FFED74;
+	border-bottom: 1px black solid
 	float: none;
 }
 
