@@ -47,11 +47,6 @@ img {
 	display: inline;
 }
 
-#dare {
-	height: 100%;
-	position: relative;
-	background-color:#FF957E;
-}
 
 #slogan {
 	color: black;
@@ -72,7 +67,6 @@ img {
 	background-color: #FFED74;
 	padding: 1em;
 	border-bottom: 1px black solid;
-	float: left;
 }
 
 main {
