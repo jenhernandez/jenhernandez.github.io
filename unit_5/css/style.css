@@ -55,6 +55,7 @@ img {
 	text-align: center;
 	background-image: url('../images/adventure.jpg');
 	background-size: cover;	
+	height: 100%;
 }
 
 main {
