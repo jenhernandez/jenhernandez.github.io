@@ -84,7 +84,6 @@ img {
 	font-size: 80px;
 	font-weight: bolder;
 	text-align: left;
-	background-color: #FFED74;
 	float: left;
 }
 
@@ -94,7 +93,6 @@ img {
 	font-size: 40px;
 	font-weight: normal;
 	text-align: left;
-	background-color: #FFED74;
 	padding: 1em;
 	border-bottom: 1px black solid;
 }
