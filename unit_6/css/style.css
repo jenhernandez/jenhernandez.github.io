@@ -1,7 +1,7 @@
 
 @import url('https://fonts.googleapis.com/css?family=Anton');
 @import url('https://fonts.googleapis.com/css?family=Roboto:300');
-@import url('https://fonts.googleapis.com/css?family=Abril+Fatface');
+@import url('https://fonts.googleapis.com/css?family=Bowlby+One+SC');
 
 header{
 	background-color: #FFFFFF;
@@ -11,15 +11,14 @@ header{
 
 h1 {
 	color: E3293D;
-	font-family: 'Abril Fatface', cursive;
+	font-family: 'Bowlby One SC', cursive;
 	font-size: 80px;
 	text-align: left;
 }
 
 nav {
-	background-color: #E3293D;
 	border: 1px black solid;
-	padding: 20 px;
+	padding: 30px;
 }
 
 ul {
@@ -107,17 +106,17 @@ main {
 
 h2 {
 	color: black;
-    font-family: 'Anton', sans-serif;	
+    font-family: 'Bowlby One SC', cursive;	
     font-size: 100px;
     font-weight: bolder;
 	text-transform: uppercase;
 	text-align:center;
-	padding: 30px;
+	padding: 100px;
 }
 
 span {
 	color: black;
-	font-family: 'Abril Fatface', cursive;
+	font-family: 'Bowlby One SC', cursive;
 	font-size: 40px;
 	font-weight: lighter;
 	text-align: center;
