@@ -94,7 +94,7 @@ img {
 	padding: 1em;
 }
 
-#cities{
+#cities {
 	background-color: #FFFFFF;
 	border: 1px black solid;
 	padding: 20px;
@@ -113,6 +113,51 @@ img {
 	padding: 20px;
 	float: right;
 	width: 60%;
+}
+
+#mxpic {
+	border: 1px black solid;
+	padding: 20px;
+	float: right;
+	width: 60%;
+}
+
+#mxblog {
+	background-color: #FFFFFF;
+	border: 1px black solid;
+	padding: 20px;
+	float: left;
+	width: 32%;
+}
+
+#irepic {
+	background-color: #FFFFFF;
+	border: 1px black solid;
+	padding: 20px;
+	float: left;
+	width: 32%;
+}
+
+#ireblog {
+	border: 1px black solid;
+	padding: 20px;
+	float: right;
+	width: 60%;
+}
+
+#amspic {
+	border: 1px black solid;
+	padding: 20px;
+	float: right;
+	width: 60%;
+}
+
+#amsblog {
+	background-color: #FFFFFF;
+	border: 1px black solid;
+	padding: 20px;
+	float: left;
+	width: 32%;
 }
 
 .blogs:after {
