@@ -4,20 +4,20 @@
 @import url('https://fonts.googleapis.com/css?family=Abril+Fatface');
 
 header{
-	background-color: #FFED74;
+	background-color: #FFFFFF;
 	border: 1px black solid;
 	padding: 20px;
 }
 
 h1 {
-	color: black;
+	color: E3293D;
 	font-family: 'Abril Fatface', cursive;
 	font-size: 80px;
-	text-align: left;	
+	text-align: left;
 }
 
 nav {
-	background-color: #E8C66A;
+	background-color: #E3293D;
 	border: 1px black solid;
 	padding: 20 px;
 }
@@ -25,7 +25,7 @@ nav {
 ul {
 	display: inline;
 	padding: 10px;
-	color: black;
+	color: FFFFFF;
 	font-family: 'Roboto', sans-serif;
 	font-size: 40px;
 	font-weight: lighter;
