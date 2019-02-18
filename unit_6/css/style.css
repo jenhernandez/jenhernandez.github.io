@@ -94,6 +94,35 @@ img {
 	padding: 1em;
 }
 
+#cities{
+	background-color: #FFFFFF;
+	border: 1px black solid;
+	padding: 20px;
+}
+
+#drpic {
+	background-color: #FFFFFF;
+	border: 1px black solid;
+	padding: 20px;
+	float: left;
+	width: 32%;
+}
+
+#drblog {
+	border: 1px black solid;
+	padding: 20px;
+	float: right;
+	width: 60%;
+}
+
+.blogs:after {
+	visibility: hidden;
+	display: block;
+	font-size: 0;
+	content: "";
+	clear: both;
+	height: 0;
+}
 main {
 	border: 1px black solid;
 	padding: 20 px;
