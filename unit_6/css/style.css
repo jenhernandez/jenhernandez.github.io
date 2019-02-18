@@ -58,15 +58,15 @@ img {
 	border: 1px black solid;
 	padding: 20px;
 	float: left;
-	width: 30%;
+	width: 32%;
 }
 
 #right {
-	background-color: #6FE4D4;
+	background-color: #004052;
 	border: 1px black solid;
 	padding: 20px;
 	float: right;
-	width: 62%;
+	width: 60%;
 }
 
 .clearfix:after {
@@ -79,7 +79,7 @@ img {
 }
 
 #slogan {
-	color: black;
+	color: #FFFFFF;
 	font-family: 'Anton', sans-serif;
 	font-size: 80px;
 	font-weight: bolder;
@@ -89,13 +89,12 @@ img {
 }
 
 #intro {
-	color: black;
+	color: #FFFFFF;
 	font-family: Roboto, sans-serif;
 	font-size: 40px;
 	font-weight: normal;
 	text-align: left;
 	padding: 1em;
-	border-bottom: 1px black solid;
 }
 
 main {
