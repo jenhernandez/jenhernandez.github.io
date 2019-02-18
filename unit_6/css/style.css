@@ -1,0 +1,151 @@
+
+@import url('https://fonts.googleapis.com/css?family=Anton');
+@import url('https://fonts.googleapis.com/css?family=Roboto:300');
+@import url('https://fonts.googleapis.com/css?family=Abril+Fatface');
+
+header{
+	background-color: #FFED74;
+	border: 1px black solid;
+	padding: 20px;
+}
+
+h1 {
+	color: black;
+	font-family: 'Abril Fatface', cursive;
+	font-size: 80px;
+	text-align: left;	
+}
+
+nav {
+	background-color: #E8C66A;
+	border: 1px black solid;
+	padding: 20 px;
+}
+
+ul {
+	display: inline;
+	padding: 10px;
+	color: black;
+	font-family: 'Roboto', sans-serif;
+	font-size: 40px;
+	font-weight: lighter;
+	text-transform: uppercase
+}
+
+li {
+    display: inline;
+    list-style-type: none;
+}
+
+.menu {
+	padding: 1em;
+}
+
+img {
+	height: auto;
+	width: auto; 
+	display: inline;
+}
+
+#two_column {
+	background-color: #FFB7CF;
+	border: 1px black solid;
+	padding: 20px;
+}
+
+#left {
+	background-color: #E582A2;
+	border: 1px black solid;
+	padding: 20px;
+}
+
+#right {
+	background-color: #E55B88;
+	border: 1px black solid;
+	padding: 20px;
+}
+
+#slogan {
+	color: black;
+	font-family: 'Anton', sans-serif;
+	font-size: 80px;
+	font-weight: bolder;
+	text-align: left;
+	background-color: #FFED74;
+	float: left;
+}
+
+#intro {
+	color: black;
+	font-family: Roboto, sans-serif;
+	font-size: 40px;
+	font-weight: normal;
+	text-align: left;
+	background-color: #FFED74;
+	padding: 1em;
+	border-bottom: 1px black solid;
+}
+
+main {
+	background-color:#FFC675;
+	border: 1px black solid;
+	padding: 20 px;
+}
+
+
+
+
+
+h2 {
+	color: black;
+    font-family: 'Anton', sans-serif;	
+    font-size: 100px;
+    font-weight: bolder;
+	text-transform: uppercase;
+	text-align:center;
+}
+
+span {
+	color: black;
+	font-family: 'Abril Fatface', cursive;
+	font-size: 40px;
+	font-weight: lighter;
+	text-align: center;
+}
+
+article{
+	background-color:#E89C6C;
+	border: 1px black solid;
+	padding: 20 px;
+}
+
+body {
+	color: black;
+	font-family: 'Roboto', sans-serif;
+	font-size: 26px;
+	font-weight: lighter;
+	text-align: center;
+	background-color: white;
+}
+
+h3 {
+	color: black;
+    font-family: 'Anton', sans-serif;
+	font-size: 40px;
+	font-weight: bold;
+	text-align:center;
+
+}
+
+footer {
+	background-color:#FF957E;
+	border: 1px black solid;
+	padding: 20 px;
+}
+
+.wrapper {
+	background-color: #FFE2B8;
+	border: 1px black solid;
+	padding: 20px;
+}
+
