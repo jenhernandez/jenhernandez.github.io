@@ -54,7 +54,7 @@ img {
 }
 
 #left {
-	background-color: #004052;
+	background-color: #FFFFFF;
 	border: 1px black solid;
 	padding: 20px;
 	float: left;
@@ -78,7 +78,7 @@ img {
 }
 
 #slogan {
-	color: #FFFFFF;
+	color: #004052;
 	font-family: 'Anton', sans-serif;
 	font-size: 80px;
 	font-weight: bolder;
@@ -88,7 +88,7 @@ img {
 }
 
 #intro {
-	color: #FFFFFF;
+	color: #004052;
 	font-family: Roboto, sans-serif;
 	font-size: 40px;
 	font-weight: normal;
