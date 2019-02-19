@@ -20,12 +20,28 @@ h1 {
 	float: left;
 }
 
-nav {
-	padding: 30px;
-}
-
 #menu {
 	float: right;
+}
+
+#top {
+	background-color: #FFFFFF;
+	border: 1px black solid;
+	padding: 20px;
+}
+
+.top:after {
+	visibility: hidden;
+	display: block;
+	font-size: 0;
+	content: "";
+	clear: both;
+	height: 0;
+}
+
+
+nav {
+	padding: 30px;
 }
 
 ul {
