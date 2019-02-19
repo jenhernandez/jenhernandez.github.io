@@ -92,7 +92,7 @@ li {
 }
 
 #cities1 {
-	background-color: #FFFFFF;
+	background-color: #F8B500;
 	border: 1px black solid;
 	padding: 20px;
 }
@@ -191,7 +191,6 @@ h2 {
 
 span {
 	color: #E3293D;
-	background-color: #F8B500;
 	font-family: 'Abel', sans-serif;
 	font-size: 40px;
 	font-weight: lighter;
