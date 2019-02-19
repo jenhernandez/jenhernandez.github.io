@@ -76,7 +76,7 @@ img {
 }
 
 #slogan {
-	color: #FFB018;
+	color: #86CC43;
 	font-family: 'Anton', sans-serif;
 	font-size: 80px;
 	font-weight: bolder;
@@ -86,7 +86,7 @@ img {
 }
 
 #intro {
-	color: #FFB018;
+	color: #86CC43;
 	font-family: Roboto, sans-serif;
 	font-size: 40px;
 	font-weight: normal;
@@ -94,7 +94,7 @@ img {
 	padding: 1em;
 }
 
-#cities {
+#cities1 {
 	background-color: #FFFFFF;
 	border: 1px black solid;
 	padding: 20px;
@@ -160,7 +160,7 @@ img {
 	width: 17%;
 }
 
-.blogs:after {
+.blogs1:after {
 	visibility: hidden;
 	display: block;
 	font-size: 0;
@@ -168,6 +168,8 @@ img {
 	clear: both;
 	height: 0;
 }
+
+
 main {
 	border: 1px black solid;
 	padding: 20 px;
