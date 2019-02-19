@@ -1,6 +1,6 @@
 
 @import url('https://fonts.googleapis.com/css?family=Abel');
-@import url('https://fonts.googleapis.com/css?family=Bowlby+One+SC');
+@import url('https://fonts.googleapis.com/css?family=Uncial+Antiqua');
 
 header{
 	background-color: #FFFFFF;
@@ -10,7 +10,7 @@ header{
 
 h1 {
 	color: #E3293D;
-	font-family: 'Bowlby One SC', cursive;
+	font-family: 'Uncial Antiqua', cursive;
 	font-size: 80px;
 	text-align: left;
 	padding: 30px;
@@ -188,7 +188,7 @@ main {
 
 h2 {
 	color: black;
-    font-family: 'Bowlby One SC', cursive;	
+	font-family: 'Uncial Antiqua', cursive;
     font-size: 100px;
     font-weight: bolder;
 	text-transform: uppercase;
