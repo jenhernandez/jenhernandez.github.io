@@ -28,12 +28,10 @@ ul {
 	font-size: 40px;
 	font-weight: lighter;
 	text-transform: uppercase
+	float:left;
 }
 
-li {
-    display: inline;
-    list-style-type: none;
-}
+
 
 .menu {
 	padding: 30px;
@@ -179,7 +177,7 @@ li {
 
 main {
 	border: 1px black solid;
-	padding: 20 px;
+	padding: 20px;
 }
 
 
@@ -206,7 +204,7 @@ span {
 
 article{
 	border: 1px black solid;
-	padding: 20 px;
+	padding: 20px;
 }
 
 body {
@@ -229,7 +227,7 @@ h3 {
 
 footer {
 	border: 1px black solid;
-	padding: 20 px;
+	padding: 20px;
 }
 
 .wrapper {
