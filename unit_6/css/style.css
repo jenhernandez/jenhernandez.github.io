@@ -10,7 +10,7 @@ header{
 }
 
 h1 {
-	color: E3293D;
+	color: #E3293D;
 	font-family: 'Bowlby One SC', cursive;
 	font-size: 80px;
 	text-align: left;
@@ -50,8 +50,6 @@ ul {
 	color: black;
 	font-family: 'Abel', sans-serif;
 	font-size: 20px;
-	font-weight: lighter;
-	text-transform: uppercase
 }
 
 li {
@@ -204,8 +202,6 @@ main {
 	border: 1px black solid;
 	padding: 20px;
 }
-
-
 
 
 
