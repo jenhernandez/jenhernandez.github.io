@@ -42,7 +42,7 @@ li {
 .luggage {
     width: 150px;
     height: 100px;
-    background-image: url("../images.luggage.jpg");
+    background-image: url("../images/luggage.jpg");
     background-size: cover;
     background-repeat: no-repeat;
     background-position: 50% 50%;
@@ -109,6 +109,7 @@ li {
 	padding: 20px;
 	float: left;
 	width: 70%;
+	line-height: 300px;
 }
 
 #drblog {
@@ -123,6 +124,7 @@ li {
 	padding: 20px;
 	float: right;
 	width: 22%;
+	line-height: 300px;
 }
 
 #mxblog {
@@ -139,6 +141,7 @@ li {
 	padding: 20px;
 	float: left;
 	width: 22%;
+	line-height: 300px;
 }
 
 #ireblog {
@@ -153,6 +156,7 @@ li {
 	padding: 20px;
 	float: right;
 	width: 75%;
+	line-height: 300px;
 }
 
 #amsblog {
