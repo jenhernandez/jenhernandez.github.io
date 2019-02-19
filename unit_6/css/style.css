@@ -37,9 +37,10 @@ li {
 }
 
 .luggage {
-    background-image: url(.../images/luggage.jpg);
+    background-image: url(...images/luggage.jpg);
     background-size: cover;
     background-repeat: no-repeat;
+    clear: all;
 }​
 
 #two_column {
