@@ -6,6 +6,7 @@ header{
 	background-color: #FFFFFF;
 	border: 1px black solid;
 	padding: 20px;
+	clear: both;
 }
 
 h1 {
@@ -13,21 +14,12 @@ h1 {
 	font-family: 'Uncial Antiqua', cursive;
 	font-size: 80px;
 	text-align: left;
-	padding: 30px;
-	float: left;
+	padding: 1em;
 }
 
-
-#menu {
-	float: right;
-}
-
-.menu {
-	padding: 30px;
-}
 
 nav {
-	padding: 30px;
+	padding: 2em;
 }
 
 ul {
@@ -45,7 +37,7 @@ li {
 
 
 .luggage {
-    background-image: url(".../images/luggage.jpg");
+    background-image: url:(".../images/luggage.jpg");
     background-size: cover;
     background-repeat: no-repeat;
 }​
