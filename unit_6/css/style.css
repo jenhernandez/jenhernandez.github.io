@@ -105,21 +105,21 @@ img {
 	border: 1px black solid;
 	padding: 20px;
 	float: left;
-	width: 32%;
+	width: 70%;
 }
 
 #drblog {
 	border: 1px black solid;
 	padding: 20px;
 	float: right;
-	width: 60%;
+	width: 22%;
 }
 
 #mxpic {
 	border: 1px black solid;
 	padding: 20px;
 	float: right;
-	width: 60%;
+	width: 22%;
 }
 
 #mxblog {
@@ -127,7 +127,7 @@ img {
 	border: 1px black solid;
 	padding: 20px;
 	float: left;
-	width: 32%;
+	width: 70%;
 }
 
 #irepic {
@@ -135,21 +135,21 @@ img {
 	border: 1px black solid;
 	padding: 20px;
 	float: left;
-	width: 32%;
+	width: 22%;
 }
 
 #ireblog {
 	border: 1px black solid;
 	padding: 20px;
 	float: right;
-	width: 60%;
+	width: 70%;
 }
 
 #amspic {
 	border: 1px black solid;
 	padding: 20px;
 	float: right;
-	width: 60%;
+	width: 75%;
 }
 
 #amsblog {
@@ -157,7 +157,7 @@ img {
 	border: 1px black solid;
 	padding: 20px;
 	float: left;
-	width: 32%;
+	width: 17%;
 }
 
 .blogs:after {
