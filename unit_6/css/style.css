@@ -23,15 +23,6 @@ h1 {
 	float: right;
 }
 
-#top {
-	background-color: #FFFFFF;
-	padding: 20px;
-}
-
-.top:after {
-	clear: both;
-}
-
 
 nav {
 	padding: 30px;
@@ -48,7 +39,6 @@ ul {
 li {
     display: inline;
     list-style-type: none;
-    float: right;
 }
 
 
