@@ -20,7 +20,7 @@ h1 {
 
 ul {
 	display: inline;
-	color: black;
+	color: #393E46;
 	font-family: 'Abel', sans-serif;
 	font-size: 20px;
 }
@@ -189,7 +189,8 @@ h2 {
 }
 
 span {
-	color: black;
+	color: #E3293D;
+	background-color: #F8B500;
 	font-family: 'Abel', sans-serif;
 	font-size: 40px;
 	font-weight: lighter;
