@@ -39,11 +39,10 @@ li {
 	padding: 1em;
 }
 
-img {
-	height: auto;
-	width: auto; 
-	display: inline;
+#luggage {
+	width: 480px;
 }
+
 
 #two_column {
 	background-color: #FFFFFF;
