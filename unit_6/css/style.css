@@ -16,8 +16,16 @@ h1 {
 	text-align: left;
 }
 
+#title{
+	float: left;
+}
+
 nav {
 	padding: 30px;
+}
+
+#menu {
+	float: right;
 }
 
 ul {
