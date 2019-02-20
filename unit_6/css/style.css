@@ -128,7 +128,7 @@ h2 {
     font-weight: bolder;
 	text-transform: uppercase;
 	text-align:center;
-	padding: 3em;
+	padding: 2em;
 }
 
 #travelinspo {
@@ -146,8 +146,9 @@ h2 {
 	border: 1px grey solid;
 	padding: 2em;
 	float: right;
-	width: 35%;
+	width: 30%;
 	text-align: center;
+	margin: auto;
 }
 
 #latestfood {
@@ -156,6 +157,7 @@ h2 {
 	float: left;
 	width: 30%;
 	text-align: center;
+	margin: auto;
 }
 
 #market {
@@ -170,15 +172,16 @@ h2 {
 	border: 1px grey solid;
 	padding: 1em;
 	float: left;
-	width: 62%;
+	width: 56%;
 }
 
 #latestphotos {
 	border: 1px grey solid;
 	padding: 1em;
 	float: right;
-	width: 28%;
+	width: 34%;
 	text-align: center;
+	margin: auto;
 }
 
 .blogs1:after {
