@@ -143,6 +143,7 @@ h2 {
 }
 
 #latesttravel {
+	background-color: #8DA7C2;
 	border: 1px grey solid;
 	padding: 2em;
 	float: right;
@@ -151,6 +152,7 @@ h2 {
 }
 
 #latestfood {
+	background-color: #8DA7C2;
 	border: 1px grey solid;
 	padding: 1em;
 	float: left;
@@ -174,6 +176,7 @@ h2 {
 }
 
 #latestphotos {
+	background-color: #8DA7C2;
 	border: 1px grey solid;
 	padding: 1em;
 	float: right;
@@ -197,7 +200,7 @@ main {
 
 
 span {
-	color: #E3293D;
+	color: #000000;
 	font-family: 'Abel', sans-serif;
 	font-size: 100px;
 	font-weight: lighter;
@@ -222,12 +225,11 @@ body {
 }
 
 h3 {
-	color: black;
+	color: #000000;
 	font-family: 'Abel', sans-serif;
-	font-size: 40px;
+	font-size: 100px;
 	font-weight: bold;
 	text-align:center;
-
 }
 
 footer {
