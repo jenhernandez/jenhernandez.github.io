@@ -77,6 +77,8 @@ li {
 	background-color: #FFFFFF;
 	border: 1px black solid;
 	padding: 1em;
+	margin-left: 1em;
+	margin-right:1em;
 }
 
 #left {
