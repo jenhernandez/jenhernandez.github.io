@@ -4,7 +4,6 @@
 
 header{
 	background-color: #FFFFFF;
-	border: 1px black solid;
 	padding: 20px;
 	clear: both;
 }
@@ -15,14 +14,12 @@ header{
 }
 
 #name {
-	border: 1px black solid;
 	padding:20px;
 	float: left;
 	width: 62%;
 }
 
 #navbar {
-	border: 1px black solid;
 	padding: 20px;
 	float: right;
 	width: 28%;
@@ -84,14 +81,12 @@ main {
 
 #left {
 	background-color: #8EE8E3;
-	border: 1px black solid;
 	padding: 20px;
 	float: left;
 	width: 30%;
 }
 
 #right {
-	border: 1px black solid;
 	padding: 20px;
 	float: right;
 	width: 58%;
