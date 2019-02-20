@@ -173,7 +173,7 @@ h2 {
 	border: 1px grey solid;
 	padding: 1em;
 	float: left;
-	width: 56%;
+	width: 50%;
 }
 
 #latestphotos {
@@ -181,7 +181,7 @@ h2 {
 	border: 1px grey solid;
 	padding: 1em;
 	float: right;
-	width: 34%;
+	width: 42%;
 	text-align: center;
 }
 
@@ -232,9 +232,15 @@ h3 {
 }
 
 footer {
-	color: #FFFFFF;
 	background-color: #000000;
 	padding: 20px;
+}
+
+h4{
+	color: #FFFFFF;
+	font-family: 'Cinzel Decorative', cursive;
+	font-size: 100px;
+	text-align:center;
 }
 
 .wrapper {
