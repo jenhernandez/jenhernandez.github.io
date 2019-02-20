@@ -48,7 +48,8 @@ ul {
 	display: inline;
 	color: #393E46;
 	font-family: 'Abel', sans-serif;
-	font-size: 20px;
+	font-size: 26px;
+	font-weight: bold;
 	width: 50%;
 }
 
@@ -60,7 +61,6 @@ li {
 
 .menu {
 	padding: 2em;
-	font-weight: bold;
 }
 
 .luggage {
