@@ -16,13 +16,13 @@ header{
 #name {
 	padding:20px;
 	float: left;
-	width: 62%;
+	width: 58%;
 }
 
 #navbar {
 	padding: 20px;
 	float: right;
-	width: 28%;
+	width: 36%;
 }
 
 .topbar:after {
@@ -125,12 +125,14 @@ main {
 }
 
 #citylife {
+	border: 1px grey solid;
 	padding-left: 2em;
 	float: left;
 	width: 60%;
 }
 
 #latesttravel {
+	border: 1px grey solid;
 	padding: 2em;
 	float: right;
 	width: 30%;
@@ -138,12 +140,15 @@ main {
 }
 
 #latestfood {
+	border: 1px grey solid;
 	padding: 2em;
 	float: left;
 	width: 60%;
+	text-align: center;
 }
 
 #market {
+	border: 1px grey solid;
 	padding: 20px;
 	float: right;
 	width: 30%;
@@ -151,15 +156,18 @@ main {
 
 
 #manatee {
+	border: 1px grey solid;
 	padding: 20px;
 	float: left;
 	width: 60%;
 }
 
 #latestphotos {
+	border: 1px grey solid;
 	padding: 20px;
 	float: right;
 	width: 32%;
+	text-align: center;
 }
 
 .blogs1:after {
@@ -179,14 +187,14 @@ main {
 
 
 h2 {
-	background-color: #E32D0F; 
+	background-color: #ED674E; 
 	color: black;
 	font-family: 'Uncial Antiqua', cursive;
     font-size: 100px;
     font-weight: bolder;
 	text-transform: uppercase;
 	text-align:center;
-	padding: 100px;
+	padding: 3em;
 }
 
 span {
