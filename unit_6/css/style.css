@@ -35,7 +35,7 @@ header{
 }
 
 h1 {
-	color: #E3293D;
+	color: #E32D0F;
 	font-family: 'Uncial Antiqua', cursive;
 	font-size: 80px;
 	text-align: left;
@@ -127,37 +127,40 @@ main {
 #citylife {
 	padding: 20px;
 	float: left;
-	width: 70%;
+	width: 60%;
+	align-content: left;
 }
 
 #latesttravel {
 	padding: 20px;
 	float: right;
-	width: 22%;
+	width: 30%;
+	text-align: center;
+	margin-top: 2em;
 }
 
 #market {
 	padding: 20px;
 	float: right;
-	width: 22%;
+	width: 30%;
 }
 
 #latestfood {
 	padding: 20px;
 	float: left;
-	width: 70%;
+	width: 60%;
 }
 
 #manatee {
 	padding: 20px;
 	float: left;
-	width: 22%;
+	width: 60%;
 }
 
 #latestphotos {
 	padding: 20px;
 	float: right;
-	width: 70%;
+	width: 30%;
 }
 
 .blogs1:after {
