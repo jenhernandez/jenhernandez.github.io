@@ -6,6 +6,15 @@ header{
 
 }
 
+#name{
+	width: 20%;
+}
+
+#menu{
+	float: left;
+	width: 70%;
+}
+
 #dare {
 	background-image: url('...images/road.jpg');
 }
