@@ -11,8 +11,13 @@ header{
 }
 
 #menu{
-	float: left;
 	width: 70%;
+}
+
+#tab{
+	float: left;
+	display: inline;
+	padding: 1em;
 }
 
 #dare {
