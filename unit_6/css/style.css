@@ -99,7 +99,6 @@ li {
 }
 
 #drpic {
-	background-color: #FFFFFF;
 	border: 1px black solid;
 	padding: 20px;
 	float: left;
@@ -123,7 +122,6 @@ li {
 }
 
 #mxblog {
-	background-color: #FFFFFF;
 	border: 1px black solid;
 	padding: 20px;
 	float: left;
@@ -131,7 +129,6 @@ li {
 }
 
 #irepic {
-	background-color: #FFFFFF;
 	border: 1px black solid;
 	padding: 20px;
 	float: left;
@@ -155,7 +152,6 @@ li {
 }
 
 #amsblog {
-	background-color: #FFFFFF;
 	border: 1px black solid;
 	padding: 20px;
 	float: left;
@@ -209,7 +205,6 @@ body {
 	font-size: 26px;
 	font-weight: lighter;
 	text-align: center;
-	background-color: white;
 }
 
 h3 {
