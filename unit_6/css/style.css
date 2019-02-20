@@ -125,18 +125,22 @@ main {
 }
 
 #citylife {
-	padding: 20px;
+	padding-left: 2em;
 	float: left;
 	width: 60%;
-	align-content: left;
 }
 
 #latesttravel {
-	padding: 20px;
+	padding: 2em;
 	float: right;
 	width: 30%;
 	text-align: center;
-	margin-top: 2em;
+}
+
+#latestfood {
+	padding: 2em;
+	float: left;
+	width: 60%;
 }
 
 #market {
@@ -145,11 +149,6 @@ main {
 	width: 30%;
 }
 
-#latestfood {
-	padding: 20px;
-	float: left;
-	width: 60%;
-}
 
 #manatee {
 	padding: 20px;
@@ -160,7 +159,7 @@ main {
 #latestphotos {
 	padding: 20px;
 	float: right;
-	width: 30%;
+	width: 32%;
 }
 
 .blogs1:after {
@@ -180,6 +179,7 @@ main {
 
 
 h2 {
+	background-color: #E32D0F; 
 	color: black;
 	font-family: 'Uncial Antiqua', cursive;
     font-size: 100px;
