@@ -67,22 +67,24 @@ li {
 }
 
 .luggage {
-    background-image: url(...images/luggage.jpg);
+    background-image: url(../images/luggage.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     clear: all;
 }​
 
+main {
+	background-color: #FFFDE2;
+}
+
 #two_column {
 	background-color: #FFFFFF;
 	border: 1px black solid;
 	padding: 1em;
-	margin-left: 1em;
-	margin-right:1em;
 }
 
 #left {
-	background-color: #FFFFFF;
+	background-color: #FFFDE2;
 	border: 1px black solid;
 	padding: 20px;
 	float: left;
