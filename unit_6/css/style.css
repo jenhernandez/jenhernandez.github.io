@@ -78,13 +78,13 @@ main {
 }
 
 #two_column {
-	background-color: #FFFFFF;
+	background-color: #FFFDE2;
 	border: 1px black solid;
 	padding: 1em;
 }
 
 #left {
-	background-color: #FFFDE2;
+	background-color: #8EE8E3;
 	border: 1px black solid;
 	padding: 20px;
 	float: left;
