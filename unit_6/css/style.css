@@ -148,7 +148,6 @@ h2 {
 	float: right;
 	width: 30%;
 	text-align: center;
-	margin: auto;
 }
 
 #latestfood {
@@ -157,7 +156,6 @@ h2 {
 	float: left;
 	width: 30%;
 	text-align: center;
-	margin: auto;
 }
 
 #market {
@@ -181,7 +179,6 @@ h2 {
 	float: right;
 	width: 34%;
 	text-align: center;
-	margin: auto;
 }
 
 .blogs1:after {
@@ -217,6 +214,11 @@ body {
 	font-size: 26px;
 	font-weight: lighter;
 	text-align: center;
+}
+
+#follow {
+	background-color: #ED674E; 
+	padding: 2em;	
 }
 
 h3 {
