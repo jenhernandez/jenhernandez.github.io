@@ -81,14 +81,14 @@ li {
 #left {
 	background-color: #FFFFFF;
 	border: 1px black solid;
-	padding: 20px;
+	padding: 1em;
 	float: left;
 	width: 32%;
 }
 
 #right {
 	border: 1px black solid;
-	padding: 20px;
+	padding: 1em;
 	float: right;
 	width: 60%;
 }
