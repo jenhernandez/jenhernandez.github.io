@@ -7,7 +7,7 @@ header{
 }
 
 #dare {
-	background-image: url(.../images/road.jpg);
+	background-image: url('.../images/road.jpg');
 }
 
 h2{
