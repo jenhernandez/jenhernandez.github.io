@@ -1,6 +1,7 @@
 
 @import url('https://fonts.googleapis.com/css?family=Abel');
 @import url('https://fonts.googleapis.com/css?family=Uncial+Antiqua');
+@import url('https://fonts.googleapis.com/css?family=Cinzel+Decorative:700');
 
 header{
 	background-color: #FFFFFF;
@@ -143,7 +144,7 @@ h2 {
 }
 
 #latesttravel {
-	background-color: #8DA7C2;
+	background-color: #FFE8BC;
 	border: 1px grey solid;
 	padding: 2em;
 	float: right;
@@ -152,7 +153,7 @@ h2 {
 }
 
 #latestfood {
-	background-color: #8DA7C2;
+	background-color: #FFE8BC;
 	border: 1px grey solid;
 	padding: 1em;
 	float: left;
@@ -176,7 +177,7 @@ h2 {
 }
 
 #latestphotos {
-	background-color: #8DA7C2;
+	background-color: #FFE8BC;
 	border: 1px grey solid;
 	padding: 1em;
 	float: right;
@@ -201,9 +202,8 @@ main {
 
 span {
 	color: #000000;
-	font-family: 'Abel', sans-serif;
+	font-family: 'Cinzel Decorative', cursive;
 	font-size: 100px;
-	font-weight: lighter;
 	text-align: center;
 }
 
@@ -220,20 +220,20 @@ body {
 }
 
 #follow {
-	background-color: #ED674E; 
+	background-color: #FFE8BC;
 	padding: 2em;	
 }
 
 h3 {
 	color: #000000;
-	font-family: 'Abel', sans-serif;
+	font-family: 'Cinzel Decorative', cursive;
 	font-size: 100px;
-	font-weight: bold;
 	text-align:center;
 }
 
 footer {
-	border: 1px black solid;
+	color: #FFFFFF;
+	background-color: #000000;
 	padding: 20px;
 }
 
