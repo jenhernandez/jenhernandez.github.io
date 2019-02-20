@@ -26,7 +26,6 @@ header{
 	padding: 20px;
 	float: right;
 	width: 62%;
-	text-align: right;
 }
 
 .topbar:after {
@@ -64,6 +63,7 @@ li {
 
 .menu {
 	padding: 1em;
+	text-align: right
 }
 
 .luggage {
