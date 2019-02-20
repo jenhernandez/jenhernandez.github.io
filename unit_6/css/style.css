@@ -121,49 +121,40 @@ main {
 }
 
 #travelinspo {
-	border: 1px black solid;
 	padding: 20px;
 }
 
 #citylife {
-	border: 1px black solid;
 	padding: 20px;
 	float: left;
 	width: 70%;
 }
 
 #latesttravel {
-	border: 1px black solid;
 	padding: 20px;
 	float: right;
 	width: 22%;
 }
 
 #market {
-	border: 1px black solid;
 	padding: 20px;
 	float: right;
 	width: 22%;
-	line-height: 300px;
 }
 
 #latestfood {
-	border: 1px black solid;
 	padding: 20px;
 	float: left;
 	width: 70%;
 }
 
 #manatee {
-	border: 1px black solid;
 	padding: 20px;
 	float: left;
 	width: 22%;
-	line-height: 300px;
 }
 
 #latestphotos {
-	border: 1px black solid;
 	padding: 20px;
 	float: right;
 	width: 70%;
@@ -180,7 +171,6 @@ main {
 
 
 main {
-	border: 1px black solid;
 	padding: 20px;
 }
 
