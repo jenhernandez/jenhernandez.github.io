@@ -22,7 +22,8 @@ header{
 
 #dare {
 	background-image: url("../images/road.jpg");
-	background-size: 980px;
+	width: : 980px;
+	background-repeat: no-repeat;
 	margin: 3em;
 }
 
