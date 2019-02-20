@@ -139,7 +139,7 @@ main {
 	width: 22%;
 }
 
-#mxpic {
+#market {
 	border: 1px black solid;
 	padding: 20px;
 	float: right;
@@ -147,14 +147,14 @@ main {
 	line-height: 300px;
 }
 
-#mxblog {
+#latestfood {
 	border: 1px black solid;
 	padding: 20px;
 	float: left;
 	width: 70%;
 }
 
-#irepic {
+#manatee {
 	border: 1px black solid;
 	padding: 20px;
 	float: left;
@@ -162,26 +162,11 @@ main {
 	line-height: 300px;
 }
 
-#ireblog {
+#latestphotos {
 	border: 1px black solid;
 	padding: 20px;
 	float: right;
 	width: 70%;
-}
-
-#amspic {
-	border: 1px black solid;
-	padding: 20px;
-	float: right;
-	width: 75%;
-	line-height: 300px;
-}
-
-#amsblog {
-	border: 1px black solid;
-	padding: 20px;
-	float: left;
-	width: 17%;
 }
 
 .blogs1:after {
