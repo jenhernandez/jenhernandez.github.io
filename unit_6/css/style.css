@@ -137,6 +137,7 @@ main {
 	float: left;
 	width: 70%;
 	line-height: 300px;
+	position: center;
 }
 
 #latesttravel {
@@ -144,6 +145,7 @@ main {
 	padding: 20px;
 	float: right;
 	width: 22%;
+	position: center;
 }
 
 #mxpic {
