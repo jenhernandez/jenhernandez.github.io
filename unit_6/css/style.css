@@ -88,14 +88,14 @@ main {
 	border: 1px black solid;
 	padding: 20px;
 	float: left;
-	width: 20%;
+	width: 30%;
 }
 
 #right {
 	border: 1px black solid;
 	padding: 20px;
 	float: right;
-	width: 60%;
+	width: 58%;
 }
 
 .clearfix:after {
@@ -110,7 +110,7 @@ main {
 #slogan {
 	color: black;
 	font-family: 'Abel', sans-serif;
-	font-size: 80px;
+	font-size: 120px;
 	font-weight: bolder;
 	text-align: left;
 	float: left;
