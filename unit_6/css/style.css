@@ -227,6 +227,10 @@ span {
 	text-align: center;
 }
 
+#latestbold {
+	font-weight: bolder;
+}
+
 article{
 	border: 1px black solid;
 	padding: 20px;
