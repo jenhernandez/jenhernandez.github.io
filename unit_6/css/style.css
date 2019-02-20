@@ -137,7 +137,6 @@ h2 {
 }
 
 #citylife {
-	border: 1px grey solid;
 	padding: 1em;
 	float: left;
 	width: 55%;
@@ -145,7 +144,6 @@ h2 {
 
 #latesttravel {
 	background-color: #FFE8BC;
-	border: 1px grey solid;
 	padding: 2em;
 	float: right;
 	width: 30%;
@@ -154,7 +152,6 @@ h2 {
 
 #latestfood {
 	background-color: #FFE8BC;
-	border: 1px grey solid;
 	padding: 1em;
 	float: left;
 	width: 30%;
@@ -162,7 +159,6 @@ h2 {
 }
 
 #market {
-	border: 1px grey solid;
 	padding: 1em;
 	float: right;
 	width: 60%;
@@ -170,7 +166,6 @@ h2 {
 
 
 #manatee {
-	border: 1px grey solid;
 	padding: 1em;
 	float: left;
 	width: 50%;
