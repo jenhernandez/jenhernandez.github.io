@@ -125,12 +125,12 @@ main {
 	padding: 1em;
 }
 
-#cities1 {
+#destinations {
 	border: 1px black solid;
 	padding: 20px;
 }
 
-#drpic {
+#citylife {
 	border: 1px black solid;
 	padding: 20px;
 	float: left;
@@ -138,7 +138,7 @@ main {
 	line-height: 300px;
 }
 
-#drblog {
+#latesttravel {
 	border: 1px black solid;
 	padding: 20px;
 	float: right;
