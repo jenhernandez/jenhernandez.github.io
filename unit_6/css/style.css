@@ -71,7 +71,7 @@ li {
 }​
 
 main {
-	background-color: #EEFFE8;
+	background-color: #EEFFE8
 }
 
 #two_column {
@@ -187,7 +187,6 @@ h2 {
 	text-transform: uppercase;
 	text-align:center;
 	padding: 100px;
-	border: 1px black solid;
 }
 
 span {
