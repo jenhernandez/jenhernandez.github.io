@@ -6,12 +6,22 @@ header{
 
 }
 
-#name{
-	width: 20%;
+#two_column {
+	background-color: #FFB7CF;
+	border: 1px black solid;
+	padding 20px;
 }
 
-#menu{
-	width: 70%;
+#left {
+	background-color: #E582a2;
+	border: 1px black solid;
+	padding:20px;
+}
+
+#right {
+	background-color: #E55B88;
+	border: 1px black solid;
+	padding: 20px;
 }
 
 #tab{
@@ -22,9 +32,8 @@ header{
 
 #dare {
 	background-image: url("../images/road.jpg");
-	width: : 980px;
 	background-repeat: no-repeat;
-	margin: 3em;
+	background-size: cover;
 }
 
 h2{
