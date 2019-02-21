@@ -64,17 +64,6 @@ li {
 	padding: 2em;
 }
 
-.road {
-    background-image: url("../images/road.jpg");
-    background-size: cover;
-    background-repeat: no-repeat;
-    clear: all;
-}​
-
-main {
-	background-color: #EEFFE8
-}
-
 #two_column {
 	padding: 1em;
 }
