@@ -1,0 +1,243 @@
+
+@import url('https://fonts.googleapis.com/css?family=Abel');
+@import url('https://fonts.googleapis.com/css?family=Uncial+Antiqua');
+@import url('https://fonts.googleapis.com/css?family=Cinzel+Decorative:700');
+
+header{
+	background-color: #FFFFFF;
+	padding: 20px;
+	clear: both;
+	border-bottom: 1px #BAC2BC solid;
+}
+
+#topbar {
+	padding 20px;
+}
+
+#name {
+	padding:20px;
+	float: left;
+	width: 58%;
+}
+
+#navbar {
+	padding: 20px;
+	float: right;
+	width: 36%;
+}
+
+.topbar:after {
+	visibility: hidden;
+	display: block;
+	font-size: 0;
+	content: " ";
+	clear: both;
+	height: 0;
+}
+
+h1 {
+	color: #E32D0F;
+	font-family: 'Uncial Antiqua', cursive;
+	font-size: 80px;
+	text-align: left;
+	padding: 1em;
+	width: 50%;
+}
+
+
+ul {
+	display: inline;
+	color: #393E46;
+	font-family: 'Abel', sans-serif;
+	font-size: 26px;
+	font-weight: bold;
+	width: 50%;
+}
+
+li {
+    display: inline;
+    list-style-type: none;
+    float: left;
+}
+
+.menu {
+	padding: 2em;
+}
+
+.road {
+    background-image: url("../images/road.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    clear: all;
+}​
+
+main {
+	background-color: #EEFFE8
+}
+
+#two_column {
+	padding: 1em;
+}
+
+#left {
+	background-color: #FFE8BC;
+	padding: 20px;
+	float: left;
+	width: 30%;
+}
+
+#slogan {
+	color: black;
+	font-family: 'Uncial Antiqua', cursive;
+	font-size: 120px;
+	font-weight: bolder;
+	text-align: left;
+	float: left;
+	padding: 30px;
+	clear: all;
+}
+
+#intro {
+	color: black;
+	font-family: 'Abel', sans-serif;
+	font-size: 40px;
+	font-weight: normal;
+	text-align: left;
+	padding: 1em;
+}
+
+#right {
+	padding: 3em;
+	float: right;
+	width: 58%;
+}
+
+.clearfix:after {
+	visibility: hidden;
+	display: block;
+	font-size: 0;
+	content: "";
+	clear: both;
+	height: 0;
+}
+
+h2 {
+	background-color: #ED674E; 
+	color: black;
+	font-family: 'Uncial Antiqua', cursive;
+    font-size: 100px;
+    font-weight: bolder;
+	text-transform: uppercase;
+	text-align:center;
+	padding: 2em;
+}
+
+#travelinspo {
+	padding: 20px;
+}
+
+#citylife {
+	padding: 1em;
+	float: left;
+	width: 55%;
+}
+
+#latesttravel {
+	background-color: #FFE8BC;
+	padding: 2em;
+	float: right;
+	width: 30%;
+	text-align: center;
+}
+
+#latestfood {
+	background-color: #FFE8BC;
+	padding: 1em;
+	float: left;
+	width: 30%;
+	text-align: center;
+}
+
+#market {
+	padding: 1em;
+	float: right;
+	width: 60%;
+}
+
+
+#manatee {
+	padding: 1em;
+	float: left;
+	width: 50%;
+}
+
+#latestphotos {
+	background-color: #FFE8BC;
+	padding: 1em;
+	float: right;
+	width: 38%;
+	text-align: center;
+}
+
+.blogs1:after {
+	visibility: hidden;
+	display: block;
+	font-size: 0;
+	content: "";
+	clear: both;
+	height: 0;
+}
+
+
+main {
+	padding: 20px;
+}
+
+
+span {
+	color: #000000;
+	font-family: 'Cinzel Decorative', cursive;
+	font-size: 100px;
+	text-align: center;
+}
+
+#latestbold {
+	font-weight: bolder;
+}
+
+body {
+	color: black;
+	font-family: 'Abel', sans-serif;
+	font-size: 26px;
+	font-weight: lighter;
+	text-align: center;
+}
+
+#follow {
+	background-color: #FFE8BC;
+	padding: 2em;	
+}
+
+h3 {
+	color: #000000;
+	font-family: 'Cinzel Decorative', cursive;
+	font-size: 100px;
+	text-align:center;
+}
+
+footer {
+	background-color: #000000;
+	padding: 20px;
+}
+
+h4{
+	color: #FFFFFF;
+	font-family: 'Cinzel Decorative', cursive;
+	font-size: 50px;
+	text-align:center;
+}
+
+.wrapper {
+	padding: 20px;
+}
+
