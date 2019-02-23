@@ -65,7 +65,7 @@ main {
 }
 
 #two_column {
-	padding: 1em;
+	padding: 20px;
 }
 
 #left {
@@ -120,7 +120,6 @@ main {
 #latesttravel {
 	background-color: #FFE8BC;
 	padding: 2em;
-	float: right;
 	width: 30%;
 	text-align: center;
 }
@@ -128,19 +127,18 @@ main {
 #latestfood {
 	background-color: #FFE8BC;
 	padding: 1em;
-	float: left;
 	width: 30%;
 	text-align: center;
 }
 
-#market {
+#food {
 	padding: 1em;
-	float: right;
+	float: middle;
 	width: 60%;
 }
 
 
-#manatee {
+#gallery {
 	padding: 1em;
 	float: left;
 	width: 50%;
@@ -149,7 +147,6 @@ main {
 #latestphotos {
 	background-color: #FFE8BC;
 	padding: 1em;
-	float: right;
 	width: 38%;
 	text-align: center;
 }
@@ -159,7 +156,7 @@ main {
 	display: block;
 	font-size: 0;
 	content: "";
-	clear: both;
+	clear: all;
 	height: 0;
 }
 
