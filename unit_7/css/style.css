@@ -198,7 +198,6 @@ body {
 }
 
 #follow {
-	background-color: #FFE8BC;
 	padding: 2em;	
 }
 
@@ -210,7 +209,7 @@ h3 {
 }
 
 footer {
-	background-color: #E32D0F;
+	background-color: #FFE8BC;
 	padding: 20px;
 }
 
