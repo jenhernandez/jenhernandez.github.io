@@ -48,7 +48,6 @@ ul {
 	color: #393E46;
 	font-family: 'Abel', sans-serif;
 	font-size: 26px;
-	font-weight: bold;
 }
 
 li {
@@ -195,7 +194,7 @@ main {
 span {
 	color: #000000;
 	font-family: 'Cinzel Decorative', cursive;
-	font-size: 100px;
+	font-size: 80px;
 	text-align: center;
 }
 
@@ -215,8 +214,8 @@ body {
 
 h3 {
 	color: #000000;
-	font-family: 'Cinzel Decorative', cursive;
-	font-size: 100px;
+	font-family: 'Abel', sans-serif;
+	font-size: 80px;
 	text-align:center;
 }
 
@@ -227,7 +226,7 @@ footer {
 
 h4{
 	color: #FFFFFF;
-	font-family: 'Cinzel Decorative', cursive;
+	font-family: 'Abel', sans-serif;
 	font-size: 50px;
 	text-align:center;
 }
