@@ -1,6 +1,5 @@
 
 @import url('https://fonts.googleapis.com/css?family=Abel');
-@import url('https://fonts.googleapis.com/css?family=Uncial+Antiqua');
 @import url('https://fonts.googleapis.com/css?family=Cinzel+Decorative:700');
 
 header{
@@ -82,7 +81,6 @@ main {
 	font-size: 60px;
 	font-weight: bolder;
 	text-align: left;
-	padding: 30px;
 	clear: all;
 }
 
@@ -92,7 +90,6 @@ main {
 	font-size: 40px;
 	font-weight: normal;
 	text-align: left;
-	padding: 30px;
 }
 
 #right {
@@ -174,9 +171,9 @@ main {
 
 span {
 	color: #000000;
-	font-family: 'Cinzel Decorative', cursive;
 	font-size: 80px;
 	text-align: center;
+	font-weight: bolder;
 }
 
 
