@@ -40,8 +40,6 @@ h1 {
 	font-family: 'Uncial Antiqua', cursive;
 	font-size: 80px;
 	text-align: left;
-	padding: 1em;
-	width: 50%;
 }
 
 
@@ -51,7 +49,6 @@ ul {
 	font-family: 'Abel', sans-serif;
 	font-size: 26px;
 	font-weight: bold;
-	width: 50%;
 }
 
 li {
@@ -68,15 +65,24 @@ main {
 	background-color: #FFFFFF;
 }
 
+#test {
+	background-image: url("../images/road.jpg");
+	background-repeat: no-repeat;
+	color: #FFFFFF;
+	font-family: 'Abel', sans-serif;
+	font-size: 100px;
+	font-weight: bold;
+}
+
 #two_column {
 	padding: 1em;
 }
 
 #left {
 	background-color: #FFE8BC;
-	padding: 20px;
+	padding: 3em;
 	float: left;
-	width: 30%;
+	width: 40%;
 }
 
 #slogan {
@@ -85,7 +91,6 @@ main {
 	font-size: 120px;
 	font-weight: bolder;
 	text-align: left;
-	float: left;
 	padding: 30px;
 	clear: all;
 }
@@ -96,13 +101,13 @@ main {
 	font-size: 40px;
 	font-weight: normal;
 	text-align: left;
-	padding: 1em;
+	padding: 30px;
 }
 
 #right {
 	padding: 3em;
 	float: right;
-	width: 58%;
+	width: 50%;
 }
 
 .clearfix:after {
@@ -126,7 +131,7 @@ h2 {
 }
 
 #travelinspo {
-	padding: 20px;
+	padding: 1em;
 }
 
 #citylife {
@@ -194,9 +199,6 @@ span {
 	text-align: center;
 }
 
-#latestbold {
-	font-weight: bolder;
-}
 
 body {
 	color: black;
