@@ -70,7 +70,7 @@ main {
 
 #left {
 	background-color: #FFE8BC;
-	padding: 2em;
+	padding: 1em;
 	float: left;
 	width: 20%;
 }
@@ -93,9 +93,9 @@ main {
 }
 
 #right {
-	padding: 2em;
+	padding: 1em;
 	float: right;
-	width: 80%;
+	width: 60%;
 }
 
 .clearfix:after {
