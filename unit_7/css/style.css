@@ -114,40 +114,37 @@ main {
 #travel {
 	padding: 1em;
 	float: left;
-	width: 55%;
+	width: 30%;
 }
 
 #latesttravel {
 	background-color: #FFE8BC;
 	padding: 2em;
-	width: 30%;
 	text-align: center;
 }
 
 #latestfood {
 	background-color: #FFE8BC;
 	padding: 1em;
-	width: 30%;
 	text-align: center;
 }
 
 #food {
 	padding: 1em;
 	float: middle;
-	width: 60%;
+	width: 30%;
 }
 
 
 #gallery {
 	padding: 1em;
 	float: left;
-	width: 50%;
+	width: 30%;
 }
 
 #latestphotos {
 	background-color: #FFE8BC;
 	padding: 1em;
-	width: 38%;
 	text-align: center;
 }
 
@@ -168,7 +165,7 @@ main {
 
 span {
 	color: #000000;
-	font-size: 80px;
+	font-size: 40px;
 	text-align: center;
 	font-weight: bolder;
 }
