@@ -80,7 +80,7 @@ main {
 
 #left {
 	background-color: #FFE8BC;
-	padding: 3em;
+	padding: 2em;
 	float: left;
 	width: 20%;
 }
@@ -105,7 +105,7 @@ main {
 }
 
 #right {
-	padding: 3em;
+	padding: 2em;
 	float: right;
 	width: 80%;
 }
@@ -117,17 +117,6 @@ main {
 	content: "";
 	clear: both;
 	height: 0;
-}
-
-h2 {
-	background-color: #ED674E; 
-	color: black;
-	font-family: 'Uncial Antiqua', cursive;
-    font-size: 100px;
-    font-weight: bolder;
-	text-transform: uppercase;
-	text-align:center;
-	padding: 2em;
 }
 
 #travelinspo {
