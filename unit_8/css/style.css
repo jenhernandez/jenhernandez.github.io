@@ -109,6 +109,11 @@ main {
 	height: 0;
 }
 
+#travelinspo {
+	font-family: 'Abel', sans-serif;
+	font-size: 60px;
+}
+
 #travel {
 	border: 1px black solid;
 }
