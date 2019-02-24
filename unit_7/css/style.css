@@ -162,6 +162,11 @@ main {
 	height: 0;
 }
 
+.row:after {
+	content: "";
+	display: table;
+	clear: both;
+}
 
 main {
 	padding: 20px;
