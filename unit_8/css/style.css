@@ -75,7 +75,7 @@ main {
 }
 
 #slogan {
-	color: #225378;
+	color: #7DC3C1;
 	font-family: 'Staatliches', cursive;
 	font-size: 60px;
 	font-weight: bolder;
@@ -83,7 +83,7 @@ main {
 }
 
 #intro {
-	color: #1695A3;
+	color: #DBEEE7;
 	font-family: 'Lato', sans-serif;
 	font-size: 40px;
 	font-weight: normal;
@@ -91,7 +91,6 @@ main {
 }
 
 #right {
-	padding: 0;
 	float: right;
 	width: 60%;
 }
