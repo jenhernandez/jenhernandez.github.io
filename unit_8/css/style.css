@@ -109,74 +109,9 @@ main {
 	height: 0;
 }
 
-#travelinspo {
-	font-family: 'Abel', sans-serif;
-	font-size: 60px;
-}
-
-#travel {
-	border: 1px black solid;
-}
-
-#latesttravel {
-	background-color: #FFE8BC;
-	text-align: center;
-}
-
-#food {
-	border: 1px black solid;
-}
-
-#latestfood {
-	background-color: #FFE8BC;
-	text-align: center;
-}
-
-
-#gallery {
-	border: 1px black solid;
-}
-
-#latestphotos {
-	background-color: #FFE8BC;
-	text-align: center;
-}
-
-.blogs1 {
-	width: 29.33%;
-	padding: 1%;
-	margin: 0 1%;
-	float: left;
-
-}
-
-.blogs1:after {
-	visibility: hidden;
-	display: block;
-	font-size: 0;
-	content: "";
-	clear: both;
-	height: 0;
-}
-
-.row:after {
-	content: "";
-	display: table;
-	clear: both;
-}
-
 main {
 	padding: 20px;
 }
-
-
-span {
-	color: #000000;
-	font-size: 20px;
-	text-align: center;
-	font-weight: bolder;
-}
-
 
 body {
 	color: black;
