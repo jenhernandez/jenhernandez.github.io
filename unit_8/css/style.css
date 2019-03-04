@@ -64,6 +64,8 @@ main {
 
 #two_column {
 	padding: 20px;
+	background-color: #3B3B3D;
+	opacity: 10%;
 }
 
 #left {
