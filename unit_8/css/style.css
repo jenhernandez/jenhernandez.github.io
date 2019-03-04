@@ -32,7 +32,7 @@ header{
 
 h1 {
 	font-family: 'Rock Salt', cursive;
-	font-size: 60px;
+	font-size: 48px;
 	text-align: left;
 }
 
@@ -61,7 +61,6 @@ li {
 
 #two_column {
 	padding: 1em;
-	background-color: #3B3B3D;
 }
 
 #left {
@@ -73,13 +72,14 @@ li {
 #slogan {
 	color: #7DC3C1;
 	font-family: 'Staatliches', cursive;
-	font-size: 60px;
+	font-size: 80px;
 	font-weight: bolder;
 	text-align: left;
+	background-color: #3B3B3D;
 }
 
 #intro {
-	color: #DBEEE7;
+	color: #3B3B3D;
 	font-family: 'Lato', sans-serif;
 	font-size: 40px;
 	font-weight: normal;
@@ -110,7 +110,7 @@ li {
 body {
 	font-family: 'Lato', sans-serif;
 	font-size: 32px;
-	text-align: left;
+	text-align: center;
 }
 
 #roof {
