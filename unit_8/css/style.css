@@ -36,7 +36,7 @@ header{
 
 h1 {
 	font-family: 'Rock Salt', cursive;
-	font-size: 80px;
+	font-size: 60px;
 	font-weight: bold;
 	text-align: left;
 }
@@ -63,9 +63,9 @@ main {
 }
 
 #two_column {
-	padding: 20px;
+	padding: 1em;
 	background-color: #3B3B3D;
-	opacity: 10%;
+	opacity: 5%;
 }
 
 #left {
