@@ -96,6 +96,8 @@ main {
 	float: right;
 	width: 60%;
 	border: 1px black solid;
+	height: auto;
+	background-color: #2CA2FF;
 }
 
 .clearfix:after {
