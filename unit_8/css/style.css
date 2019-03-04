@@ -1,6 +1,6 @@
 
 @import url('https://fonts.googleapis.com/css?family=Abel');
-@import url('https://fonts.googleapis.com/css?family=Permanent+Marker');
+@import url('https://fonts.googleapis.com/css?family=Rock+Salt');
 
 header{
 	background-color: #FFFFFF;
@@ -35,7 +35,7 @@ header{
 }
 
 h1 {
-	font-family: 'Permanent Marker', cursive;
+	font-family: 'Rock Salt', cursive;
 	font-size: 80px;
 	font-weight: bold;
 	text-align: left;
