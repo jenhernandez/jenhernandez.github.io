@@ -69,31 +69,14 @@ li {
 	width: 20%;
 }
 
-#dare {
+#slogan {
 	color: #7DC3C1;
 	font-family: 'Staatliches', cursive;
 	font-size: 80px;
 	font-weight: bolder;
-	text-align: left;
+	text-align: center;
 	background-color: #3B3B3D;
-}
 
-#to {
-	color: #7DC3C1;
-	font-family: 'Staatliches', cursive;
-	font-size: 80px;
-	font-weight: bolder;
-	text-align: left;
-	background-color: #3B3B3D;
-}
-
-#roam {
-	color: #7DC3C1;
-	font-family: 'Staatliches', cursive;
-	font-size: 80px;
-	font-weight: bolder;
-	text-align: left;
-	background-color: #3B3B3D;
 }
 
 #intro {
