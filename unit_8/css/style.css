@@ -198,8 +198,7 @@ h4 {
 	float: left;
 	width: 30%;
 	text-align: left;
-	background-color: #DBEEE7;
-
+	background-color: #3B3B3D;
 }
 
 #profile {
@@ -211,7 +210,8 @@ h4 {
 	padding: 2em;
 	float: right;
 	width: 50%;
-	background-color: #DBEEE7;
+	background-color: #3B3B3D;
+	color:#DBEEE7;
 }
 
 
