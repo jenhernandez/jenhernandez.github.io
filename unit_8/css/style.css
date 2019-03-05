@@ -6,6 +6,7 @@
 header{
 	padding: 20px;
 	clear: both;
+	background-color: #FFFFFF;
 }
 
 #home {
@@ -120,6 +121,7 @@ body {
 	font-family: 'Lato', sans-serif;
 	font-size: 32px;
 	text-align: center;
+	background-image: url('images/blackwhite.jpg');
 }
 
 #latest {
