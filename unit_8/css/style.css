@@ -10,7 +10,7 @@ header{
 }
 
 #home {
-	background-color: #7DC3C1;
+	background-color: #DBEEE7;
 }
 
 #topbar {
@@ -154,7 +154,6 @@ body {
 	width: 30%
 	padding: 1em;
 	background-color: #DBEEE7;
-	align-content: center;
 }
 
 .row:after {
@@ -197,9 +196,9 @@ h4 {
 #leftabout {
 	padding: 2em;
 	float: left;
-	width: 20%;
+	width: 30%;
 	text-align: left;
-	background-color: #B6CCC9;
+	background-color: #DBEEE7;
 
 }
 
@@ -211,8 +210,8 @@ h4 {
 #rightabout {
 	padding: 2em;
 	float: right;
-	width: 60%;
-	background-color: #B6CCC9;
+	width: 50%;
+	background-color: #DBEEE7;
 }
 
 
