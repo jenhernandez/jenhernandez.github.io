@@ -75,8 +75,10 @@ li {
 	font-size: 80px;
 	font-weight: bolder;
 	text-align: center;
-	background-color: #3B3B3D;
+}
 
+#slogan2 {
+background-color: #3B3B3D;
 }
 
 #intro {
