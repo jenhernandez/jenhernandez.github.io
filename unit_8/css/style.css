@@ -201,9 +201,9 @@ h4 {
 }
 
 #leftabout {
-	padding: 2em;
+	padding: 3em;
 	float: left;
-	width: 30%;
+	width: 20%;
 	text-align: center;
 	background-color: #3B3B3D;
 }
@@ -214,7 +214,7 @@ h4 {
 }
 
 #rightabout {
-	padding: 2em;
+	padding: 3em;
 	float: right;
 	width: 50%;
 	background-color: #3B3B3D;
