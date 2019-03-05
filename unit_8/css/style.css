@@ -121,7 +121,7 @@ body {
 	font-family: 'Lato', sans-serif;
 	font-size: 32px;
 	text-align: center;
-	background-image: url('images/blackwhite.jpg');
+	background-image: url('../images/blackwhite.jpg');
 }
 
 #latest {
