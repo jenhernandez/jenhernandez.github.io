@@ -9,7 +9,7 @@ header{
 }
 
 #home {
-	background: color: #7DC3C1;
+	background-color: #7DC3C1;
 }
 
 #topbar {
@@ -122,6 +122,11 @@ body {
 	text-align: center;
 }
 
+#latest {
+	background-color: #3B3B3D;
+	color:#DBEEE7;
+}
+
 #roof {
 	max-width: 480px;
 	height: auto;
@@ -152,6 +157,14 @@ body {
 	display: table;
 }
 
+#hash {
+	font-family: 'Unica One', cursive;
+	font-size: 30px;
+	text-align: left;
+	color: #3B3B3D;
+	background-color: #7DC3C1;
+}
+
 h3 {
 	font-family: 'Unica One', cursive;
 	font-size: 80px;
@@ -171,6 +184,7 @@ h3 {
 	padding: 2em;
 	float: left;
 	width: 20%;
+	text-align: left;
 
 }
 
