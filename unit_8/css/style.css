@@ -128,7 +128,7 @@ body {
 #latest {
 	background-color: #3B3B3D;
 	color:#DBEEE7;
-	padding: 1em;
+	padding: .5em;
 }
 
 #roof {
@@ -154,6 +154,7 @@ body {
 	width: 30%
 	padding: 1em;
 	background-color: #DBEEE7;
+	align-content: center;
 }
 
 .row:after {
@@ -183,6 +184,7 @@ h4 {
 	text-align: center;
 }
 
+
 .aboutme:after {
 	visibility: hidden;
 	display: block;
@@ -197,6 +199,7 @@ h4 {
 	float: left;
 	width: 20%;
 	text-align: left;
+	background-color: #B6CCC9;
 
 }
 
@@ -209,6 +212,7 @@ h4 {
 	padding: 2em;
 	float: right;
 	width: 60%;
+	background-color: #B6CCC9;
 }
 
 
