@@ -1,6 +1,7 @@
 
-@import url('https://fonts.googleapis.com/css?family=Lato|Staatliches');
+@import url('https://fonts.googleapis.com/css?family=Lato');
 @import url('https://fonts.googleapis.com/css?family=Rock+Salt');
+@import url('https://fonts.googleapis.com/css?family=Unica+One');
 
 header{
 	padding: 20px;
@@ -72,7 +73,7 @@ li {
 
 #slogan {
 	color: #7DC3C1;
-	font-family: 'Staatliches', cursive;
+	font-family: 'Unica One', cursive;
 	font-size: 80px;
 	font-weight: bolder;
 	text-align: left;
@@ -145,7 +146,7 @@ body {
 }
 
 h3 {
-	font-family: 'Staatliches', cursive;
+	font-family: 'Unica One', cursive;
 	font-size: 80px;
 	text-align:center;
 }
