@@ -9,7 +9,7 @@ header{
 }
 
 #home {
-	background: color: #DBEEE7;
+	background: color: #7DC3C1;
 }
 
 #topbar {
@@ -70,13 +70,13 @@ li {
 }
 
 #left {
-	padding: 2em;
+	padding: 1em;
 	float: left;
 	width: 30%;
 }
 
 #slogan {
-	color: #7DC3C1;
+	color: #DBEEE7;
 	font-family: 'Unica One', cursive;
 	font-size: 80px;
 	font-weight: bolder;
@@ -96,7 +96,7 @@ li {
 }
 
 #right {
-	padding: 2em;
+	padding: 1em;
 	float: right;
 	width: 60%;
 }
