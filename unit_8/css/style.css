@@ -129,6 +129,7 @@ body {
 #latest {
 	background-color: #3B3B3D;
 	color:#DBEEE7;
+	padding: 1em;
 }
 
 #roof {
@@ -153,6 +154,7 @@ body {
 	float: left;
 	width: 30%
 	padding: 5px;
+	background-color: #DBEEE7;
 }
 
 .row:after {
