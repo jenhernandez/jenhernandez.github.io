@@ -12,7 +12,7 @@ header{
 #home {
 	background-color: #DBEEE7;
 	background-image: url('../images/sky.jpg');
-	background-size: auto;
+	background-size: contain;
 }
 
 #topbar {
@@ -66,7 +66,6 @@ li {
 
 .menu {
 	padding: 1em;
-	text-decoration: none;
 }
 
 #two_column {
@@ -188,6 +187,10 @@ h4 {
 	font-family: 'Unica One', cursive;
 	font-size: 40px;
 	text-align: center;
+}
+
+#aboutbackground {
+	background-image: url('../images.purplesky.jpg');
 }
 
 .aboutme {
