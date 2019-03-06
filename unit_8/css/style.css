@@ -12,7 +12,7 @@ header{
 #home {
 	background-color: #DBEEE7;
 	background-image: url('../images/sky.jpg');
-	background-size: contain;
+	background-size: cover;
 }
 
 #topbar {
@@ -190,7 +190,7 @@ h4 {
 }
 
 #aboutbackground {
-	background-image: url('../images.purplesky.jpg');
+	background-image: url('../images/purplesky.jpg');
 }
 
 .aboutme {
