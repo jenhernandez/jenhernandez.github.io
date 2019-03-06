@@ -12,6 +12,7 @@ header{
 #home {
 	background-color: #DBEEE7;
 	background-image: url('../images/sky.jpg');
+	background-size: auto;
 }
 
 #topbar {
@@ -55,7 +56,6 @@ ul {
 	font-family: 'Lato', sans-serif;
 	font-size: 22px;
 	color: #3B3B3D;
-	text-decoration: none;
 }
 
 li {
@@ -66,6 +66,7 @@ li {
 
 .menu {
 	padding: 1em;
+	text-decoration: none;
 }
 
 #two_column {
