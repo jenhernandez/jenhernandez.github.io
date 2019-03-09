@@ -139,16 +139,28 @@ body {
 	margin: 20px;
 }
 
+#roofbackground {
+	background-color: #88FFEE;
+}
+
 #makers {
 	max-width: 480px;
 	height: auto;
 	margin: 20px;
 }
 
+#makersbackground {
+	background-color: #7AE5D6;
+}
+
 #neon{
 	max-width: 480px;
 	height: auto;
 	margin: 20px;
+}
+
+#neonbackground {
+	background-color: #88FFEE;
 }
 
 .column {
