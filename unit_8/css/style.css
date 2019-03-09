@@ -6,7 +6,7 @@
 header{
 	padding: 20px;
 	clear: both;
-	background-color: #FFFFFF;
+	background-color: #3B3B3D;
 }
 
 #home {
@@ -167,7 +167,6 @@ body {
 	float: left;
 	width: 30%
 	padding: 1em;
-	background-color: #DBEEE7;
 }
 
 .row:after {
@@ -185,7 +184,7 @@ body {
 	font-size: 30px;
 	text-align: left;
 	color: #3B3B3D;
-	background-color: #7DC3C1;
+	background-color: #DBEEE7;
 	padding: 20px;
 }
 
