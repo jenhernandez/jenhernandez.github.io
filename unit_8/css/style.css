@@ -30,6 +30,10 @@ header{
 	text-decoration: none;
 }
 
+a:link {
+	text-decoration: none;
+}
+
 .topbar:after {
 	visibility: hidden;
 	display: block;
