@@ -22,12 +22,14 @@ header{
 #name {
 	float: left;
 	width: 56%;
+	color: #DBEEE7;
 }
 
 #navbar {
 	float: right;
 	width: 40%;
 	text-decoration: none;
+	color: #DBEEE7;
 }
 
 a:link {
