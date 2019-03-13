@@ -6,7 +6,7 @@
 header{
 	padding: 20px;
 	clear: both;
-	background-color: #3B3B3D;
+	background-color: #DBEEE7;
 }
 
 #home {
@@ -144,6 +144,7 @@ body {
 	max-width: 480px;
 	height: auto;
 	margin: 20px;
+	padding: 1em;
 }
 
 #roofbackground {
@@ -154,6 +155,7 @@ body {
 	max-width: 480px;
 	height: auto;
 	margin: 20px;
+	padding: 1em;
 }
 
 #makersbackground {
@@ -164,6 +166,7 @@ body {
 	max-width: 480px;
 	height: auto;
 	margin: 20px;
+	padding: 1em;
 }
 
 #neonbackground {
@@ -234,8 +237,9 @@ h4 {
 }
 
 #profile {
-	max-width: 480px;
+	max-width: 360px;
 	height: auto;
+	position: center;
 }
 
 #rightabout {
