@@ -143,8 +143,8 @@ body {
 #roof {
 	max-width: 480px;
 	height: auto;
-	margin: 20px;
-	padding: 1em;
+	margin: 1em;
+	padding: .5em;
 }
 
 #roofbackground {
@@ -154,8 +154,8 @@ body {
 #makers {
 	max-width: 480px;
 	height: auto;
-	margin: 20px;
-	padding: 1em;
+	margin: 1em;
+	padding: .5em;
 }
 
 #makersbackground {
@@ -165,8 +165,8 @@ body {
 #neon{
 	max-width: 480px;
 	height: auto;
-	margin: 20px;
-	padding: 1em;
+	margin: 1em;
+	padding: .5em;
 }
 
 #neonbackground {
