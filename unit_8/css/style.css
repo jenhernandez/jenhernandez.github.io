@@ -4,7 +4,7 @@
 @import url('https://fonts.googleapis.com/css?family=Unica+One');
 
 header{
-	padding: 20px;
+	padding: 2em;
 	clear: both;
 	background-color: #FFFFFF;
 }
@@ -112,7 +112,7 @@ li {
 }
 
 #adventure{
-	max-width: 960px;
+	width: 100%;
 	height: auto;
 }
 
