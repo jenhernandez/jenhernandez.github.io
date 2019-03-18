@@ -249,7 +249,7 @@ h4 {
 }
 
 @media screen and (max-width: 307px) {
-	#home {
+	#two_column {
 		float: none;
 	}
 }
