@@ -250,7 +250,7 @@ h4 {
 
 @media screen and (max-width: 307px) {
 	#home {
-		width:50%;
+		float: none;
 	}
 }
 
