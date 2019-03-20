@@ -19,6 +19,7 @@ header{
 
 #topbar {
 	margin: 1em;
+	color: #DBEEE7;
 }
 
 #name {
@@ -32,14 +33,6 @@ header{
 	text-decoration: none;
 }
 
-a {
-	text-decoration: none;
-
-}
-
-a:hover {
-	text-decoration: none;
-}
 
 .topbar:after {
 	visibility: hidden;
@@ -137,6 +130,7 @@ body {
 	text-align: center;
 	background-image: url('../images/road.jpg');
 	background-repeat: no-repeat;
+	width:100%
 }
 
 #latest {
