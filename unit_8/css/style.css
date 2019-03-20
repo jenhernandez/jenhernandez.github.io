@@ -259,7 +259,7 @@ h4 {
 @media screen and (max-width: 307px) {
 	#two_column {
 		float: none;
-		text-align:center;
+		display: inline;
 	}
 }
 
