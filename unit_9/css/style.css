@@ -1,0 +1,259 @@
+
+@import url('https://fonts.googleapis.com/css?family=Lato');
+@import url('https://fonts.googleapis.com/css?family=Rock+Salt');
+@import url('https://fonts.googleapis.com/css?family=Unica+One');
+
+header{
+	padding: 2em;
+	clear: both;
+	background-color: #3B3B3D;
+	color: #DBEEE7;
+}
+
+#home {
+	width: 80%;
+	background-color: #DBEEE7;
+	background-image: url('../images/sky.jpg');
+	background-size: cover;
+}
+
+#topbar {
+	margin: 1em;
+	color: #DBEEE7;
+}
+
+#name {
+	float: left;
+	width: 56%;
+}
+
+#navbar {
+	float: right;
+	width: 40%;
+	text-decoration: none;
+}
+
+
+.topbar:after {
+	visibility: hidden;
+	display: block;
+	font-size: 0;
+	content: " ";
+	clear: both;
+	height: 0;
+}
+
+h1 {
+	font-family: 'Rock Salt', cursive;
+	font-size: 48px;
+	text-align: left;
+}
+
+h2 {
+	font-family: 'Unica One', cursive;
+	font-size: 46px;
+	text-align: left;
+}
+
+
+ul {
+	display: inline;
+	font-family: 'Lato', sans-serif;
+	font-size: 22px;
+	color: #3B3B3D;
+}
+
+li {
+    display: inline;
+    list-style-type: none;
+    float: left;
+}
+
+.menu {
+	padding: 1em;
+}
+
+#adventure {
+	width: 100%;
+	height: auto;
+}
+
+#two_column {
+	padding: 1em;
+}
+
+#left {
+	padding: 1em;
+	float: left;
+	width: 30%;
+}
+
+#slogan {
+	color: #DBEEE7;
+	font-family: 'Unica One', cursive;
+	font-size: 120px;
+	font-weight: bolder;
+	text-align: left;
+}
+
+#slogan2 {
+	background-color: #3B3B3D;
+}
+
+#intro {
+	color: #3B3B3D;
+	font-family: 'Lato', sans-serif;
+	font-size: 32px;
+	font-weight: normal;
+	text-align: left;
+}
+
+#right {
+	padding: 1em;
+	float: right;
+	width: 60%;
+}
+
+.clearfix:after {
+	visibility: hidden;
+	display: block;
+	font-size: 0;
+	content: "";
+	clear: both;
+	height: 0;
+}
+
+
+body {
+	font-family: 'Lato', sans-serif;
+	font-size: 30px;
+	text-align: center;
+	background-image: url('../images/road.jpg');
+	background-repeat: no-repeat;
+	width:100%
+}
+
+#latest {
+	background-color: #3B3B3D;
+	color:#DBEEE7;
+	padding: .5em;
+}
+
+#roof {
+	max-width: 480px;
+	height: auto;
+	margin: 1em;
+	padding: .5em;
+}
+
+#roofbackground {
+	background-color: #88FFEE;
+}
+
+#makers {
+	max-width: 480px;
+	height: auto;
+	margin: 1em;
+	padding: .5em;
+}
+
+#makersbackground {
+	background-color: #7AE5D6;
+}
+
+#neon{
+	max-width: 480px;
+	height: auto;
+	margin: 1em;
+	padding: .5em;
+}
+
+#neonbackground {
+	background-color: #88FFEE;
+}
+
+.column {
+	float: left;
+	width: 30%
+	padding: 1em;
+}
+
+.row:after {
+	content: "";
+	clear: both;
+	display: table;
+}
+
+.row {
+	padding: 2em;
+	align-content: center;
+}
+
+#hash {
+	font-family: 'Unica One', cursive;
+	font-size: 30px;
+	text-align: left;
+	color: #3B3B3D;
+	background-color: #DBEEE7;
+	padding: 20px;
+}
+
+h3 {
+	font-family: 'Unica One', cursive;
+	font-size: 80px;
+	text-align:center;
+}
+
+h4 {
+	font-family: 'Unica One', cursive;
+	font-size: 40px;
+	text-align: center;
+}
+
+#aboutbackground {
+	padding: 2em;
+	
+}
+
+.aboutme {
+	padding: 1em;
+}
+
+.aboutme:after {
+	visibility: hidden;
+	display: block;
+	font-size: 0;
+	content: "";
+	clear: both;
+	height: auto;
+}
+
+#leftabout {
+	padding: 1em;
+	float: left;
+	width: 20%;
+	text-align: center;
+	background-color: #3B3B3D;
+}
+
+#profile {
+	max-width: 360px;
+	height: auto;
+	position: center;
+}
+
+#rightabout {
+	padding: 3em;
+	float: right;
+	width: 50%;
+	background-color: #3B3B3D;
+	color:#DBEEE7;
+}
+
+@media screen and (max-width: 307px) {
+	#two_column {
+		float: none;
+		display: inline;
+	}
+}
+
